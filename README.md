@@ -4,4 +4,4 @@
 
 ## [Clock](https://denfi92.github.io/JS30/clock/)
 
-## [Clock](https://denfi92.github.io/JS30/css-variables/)
+## [Css-variables](https://denfi92.github.io/JS30/css-variables/)
