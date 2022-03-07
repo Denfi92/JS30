@@ -17,3 +17,5 @@
 ## [Canvas](https://denfi92.github.io/JS30/canvas/)
 
 ## [Dev-tools](https://denfi92.github.io/JS30/dev-tools/)
+
+## [Hold-shift-checkbox](https://denfi92.github.io/JS30/hold-shift-checkbox/)
