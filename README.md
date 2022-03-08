@@ -21,3 +21,5 @@
 ## [Hold-shift-checkbox](https://denfi92.github.io/JS30/hold-shift-checkbox/)
 
 ## [Video-player](https://denfi92.github.io/JS30/video-player/)
+
+## [Key-detection](https://denfi92.github.io/JS30/key-detection/)
