@@ -23,3 +23,5 @@
 ## [Video-player](https://denfi92.github.io/JS30/video-player/)
 
 ## [Key-detection](https://denfi92.github.io/JS30/key-detection/)
+
+## [Slide-in-on-scroll](https://denfi92.github.io/JS30/slide-in-on-scroll/)
