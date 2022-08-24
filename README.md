@@ -19,3 +19,7 @@
 ## [Slide-in-on-scroll](https://denfi92.github.io/JS30/slide-in-on-scroll/)
 
 ## [Mouse-shadow](https://denfi92.github.io/JS30/mouse-shadow/)
+
+## [Sorting](https://denfi92.github.io/JS30/sorting/)
+
+## [Webcam](https://denfi92.github.io/JS30/webcam/)
