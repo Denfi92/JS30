@@ -15,7 +15,6 @@
 ## [Speech recognition](https://denfi92.github.io/JS30/speech-recognition/)
 ## [Speech synthesis](https://denfi92.github.io/JS30/speech-synthesis/)
 ## [Sticky nav](https://denfi92.github.io/JS30/sticky-nav/)
-## [Sticky nav](https://denfi92.github.io/JS30/sticky-nav/)
 ## [Stripe follow nav](https://denfi92.github.io/JS30/stripe-follow-along-nav/)
 ## [Video player](https://denfi92.github.io/JS30/video-player/)
 ## [Video speed controller](https://denfi92.github.io/JS30/video-speed-controller/)
