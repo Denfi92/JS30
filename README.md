@@ -1,25 +1,23 @@
 ## JS30
 
-## [Drum-kit](https://denfi92.github.io/JS30/drum-kit/)
-
-## [Clock](https://denfi92.github.io/JS30/clock/)
-
-## [Css-variables](https://denfi92.github.io/JS30/css-variables/)
-
-## [Flex-panels](https://denfi92.github.io/JS30/flex-panels/)
-
-## [Ajax-type-ahead](https://denfi92.github.io/JS30/ajax-type-ahead/)
-
+## [Ajax type ahead](https://denfi92.github.io/JS30/ajax-type-ahead/)
 ## [Canvas](https://denfi92.github.io/JS30/canvas/)
-
-## [Hold-shift-checkbox](https://denfi92.github.io/JS30/hold-shift-checkbox/)
-
-## [Video-player](https://denfi92.github.io/JS30/video-player/)
-
-## [Slide-in-on-scroll](https://denfi92.github.io/JS30/slide-in-on-scroll/)
-
+## [Click and drag](https://denfi92.github.io/JS30/click-and-drag/)
+## [Clock](https://denfi92.github.io/JS30/clock/)
+## [Countdown timer](https://denfi92.github.io/JS30/countdown-timer/)
+## [Css variables](https://denfi92.github.io/JS30/css-variables/)
+## [Drum kit](https://denfi92.github.io/JS30/drum-kit/)
+## [Flex panels](https://denfi92.github.io/JS30/flex-panels/)
+## [Follow link](https://denfi92.github.io/JS30/follow-along-link/)
+## [Hold shift checkbox](https://denfi92.github.io/JS30/hold-shift-checkbox/)
 ## [Mouse-shadow](https://denfi92.github.io/JS30/mouse-shadow/)
-
-## [Sorting](https://denfi92.github.io/JS30/sorting/)
-
+## [Slide on scroll](https://denfi92.github.io/JS30/slide-in-on-scroll/)
+## [Speech recognition](https://denfi92.github.io/JS30/speech-recognition/)
+## [Speech synthesis](https://denfi92.github.io/JS30/speech-synthesis/)
+## [Sticky nav](https://denfi92.github.io/JS30/sticky-nav/)
+## [Sticky nav](https://denfi92.github.io/JS30/sticky-nav/)
+## [Stripe follow nav](https://denfi92.github.io/JS30/stripe-follow-along-nav/)
+## [Video player](https://denfi92.github.io/JS30/video-player/)
+## [Video speed controller](https://denfi92.github.io/JS30/video-speed-controller/)
 ## [Webcam](https://denfi92.github.io/JS30/webcam/)
+## [Whack a mole](https://denfi92.github.io/JS30/whack-a-mole/)
